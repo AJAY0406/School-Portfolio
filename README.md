@@ -1,50 +1,58 @@
-# Adrian Joseph DT. Gatchalian — Bento Grid Portfolio
+# Adrian Joseph DT. Gatchalian
 
-A responsive monochrome student portfolio built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS 4**, and **lucide-react**. Includes About Me, Projects, Skills, Education, and Contact.
+### Aspiring Software Engineer | Computer Science Student
 
-## Requirements
+Welcome to my personal portfolio! 👋
 
-- Node.js 20.9+ (Node.js 22 LTS recommended)
-- npm (bundled with Node.js)
+I'm a third-year **Computer Science student majoring in Software Engineering** at **FEU Institute of Technology**.
 
-## Run locally
+I'm passionate about programming, software development, and problem-solving. I enjoy exploring new technologies, developing practical applications, and continuously improving my skills as I work toward becoming a Software Engineer.
 
-```bash
-npm install
-npm run dev
-```
+## 💻 Featured Projects
 
-Open http://localhost:3000.
+**SmartScreen — Thesis Project**
 
-## Image preview and animations
+A software-based SmartScreen system developed under GTSolutions, featuring applicant submissions and HR management functionalities.
 
-Click the main screenshot or any SmartScreen / OfficeHub thumbnail to open an in-page lightbox. The portfolio stays behind a translucent overlay; close with the X button, click the backdrop, or press Escape. Use the left/right arrow buttons or keyboard arrow keys to browse the screenshots. No image thumbnail opens a new tab.
+`Python` `Django` `SQL`
 
-Subtle scroll-reveal animations, gentle card hover movement, and image zoom transitions are included. Animations respect the operating system reduced-motion preference.
+[View Project](https://github.com/markcbrs-dev/SmartScreen)
 
-## Included images
+**OfficeHub — E-commerce Website**
 
-Your supplied profile photo is saved as `public/images/profile.jpg`. Six SmartScreen screenshots are included in `public/images/`, with the HR dashboard as the main preview and additional screens in a thumbnail gallery. Eight OfficeHub screenshots are also included: the homepage is the main preview, with product categories, featured products, benefits, shop, about, login, and registration screenshots in its gallery.
+An online shopping platform for office furniture, equipment, and accessories, featuring product listings, categories, and account management.
 
-To replace or update images, keep the filenames the same or update the image paths and gallery entries in `app/page.tsx`.
+`PHP` `HTML` `CSS` `MySQL`
 
-## Edit information
+[View Project](https://github.com/AJAY0406/OfficeHub)
 
-Open `app/page.tsx` to update profile information, biography, skills, projects, links, and education. The displayed academic profile is the FEU Tech ParaVerse URL you provided; it is **not** labeled LinkedIn.
+## 🏆 Certifications
 
-## Deploy to Vercel
+- **PMI Project Management Ready®** — Project Management Institute (2026)
+- **Information Technology Specialist — Python** — Certiport / Pearson (2025)
 
-1. Create a GitHub repository and upload the project files (not the enclosing ZIP).
-2. Open https://vercel.com/new and import the repository.
-3. Keep framework preset **Next.js**, then click **Deploy**.
-4. Vercel will provide a `*.vercel.app` URL.
+## 🛠️ Skills
 
-Before publishing, review your contact links and any images for privacy and permission to share.
+**Programming:** Python, Java, C++, HTML, Assembly Language
 
-## Validation
+**Technical:** Computer Networking, Project Management, Microsoft Excel, Microsoft Word
 
-Run `npm run build` to verify a production build. If PowerShell says `npm` is not recognized, install Node.js and restart VS Code. If PowerShell blocks `npm.ps1`, use `npm.cmd install` and `npm.cmd run dev`.
+**Soft Skills:** Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Time Management
 
-## Certifications
+## 🎓 Education
 
-The Certifications section includes the original uploaded PMI Project Management Ready and Information Technology Specialist Python certificate images. Click either certificate to open the same in-page lightbox used for project screenshots. The certificates are in `public/images/certificate-pmi.png` and `public/images/certificate-python.png`.
+**FEU Institute of Technology**
+
+Bachelor of Science in Computer Science major in Software Engineering
+
+3rd Year College | Expected Graduation: 2027
+
+## 📬 Connect With Me
+
+- **Email:** adgatchalian@fit.edu.ph
+- **GitHub:** [AJAY0406](https://github.com/AJAY0406)
+- **Academic Profile:** [FEU Tech Paraverse](https://paraverse.feutech.edu.ph/briefcase/profile/010023202T)
+
+---
+
+*Always learning. Always improving. Always building.*
