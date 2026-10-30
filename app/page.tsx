@@ -25,6 +25,8 @@ const projects = [
 const certifications = [
   { title: 'PMI Project Management Ready®', issuer: 'Project Management Institute', date: 'March 18, 2026', image: '/images/certificate-pmi.png', alt: 'PMI Project Management Ready certificate awarded to Adrian Joseph De Torres Gatchalian' },
   { title: 'Information Technology Specialist — Python', issuer: 'Certiport / Pearson VUE', date: 'July 16, 2025', image: '/images/certificate-python.png', alt: 'Information Technology Specialist Python certificate awarded to Adrian Joseph De Torres Gatchalian' },
+  { title: 'Data Visualization with Python', issuer: 'Cognitive Class · IBM Developer Skills Network', date: 'October 30, 2026', image: '/images/certificate-data-visualization-python.png', alt: 'Data Visualization with Python course completion certificate issued by Cognitive Class' },
+  { title: 'Node.js: Testing and Code Quality', issuer: 'LinkedIn Learning', date: 'November 25, 2025', image: '/images/certificate-nodejs-testing.jpg', alt: 'Node.js Testing and Code Quality course completion certificate from LinkedIn Learning' },
 ];
 
 const skills = [

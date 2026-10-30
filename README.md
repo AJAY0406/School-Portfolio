@@ -22,7 +22,7 @@ I'm a Computer Science student specializing in Software Engineering at **FEU Ins
 
 ## Portfolio Features
 
-- Responsive, monochrome **Bento Grid** layout
+- Responsive, monochrome card-based layout
 - Smooth scroll-reveal and hover animations, with reduced-motion support
 - About Me, Projects, Skills, Education, Certifications, and Contact sections
 - Project galleries for SmartScreen and OfficeHub
@@ -142,3 +142,8 @@ Future pushes to the connected GitHub branch will trigger new deployments automa
 Learning today. Building tomorrow.
 
 </div>
+
+### Additional certificates
+
+- **Data Visualization with Python** — Cognitive Class / IBM Developer Skills Network (October 30, 2026)
+- **Node.js: Testing and Code Quality** — LinkedIn Learning (November 25, 2025)
